@@ -10,14 +10,18 @@
 >
   <lexeme>
     <grapheme>布行</grapheme>
-    <phoneme>bu 4 hang 2</phoneme>
+    <phoneme>bu 4 - hang 2</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>银行</grapheme>
-    <phoneme>yin 1 hang 2</phoneme>
+    <phoneme>yin 1 - hang 2</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>出行</grapheme>
-    <phoneme>chu 1 xing 2</phoneme>
+    <phoneme>chu 1 - xing 2</phoneme>
   </lexeme>
+  <lexeme>
+        <grapheme>BTW</grapheme>
+        <alias>顺便说一下</alias>
+    </lexeme>
 </lexicon>
