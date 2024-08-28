@@ -4,18 +4,18 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="x-microsoft-sapi" xml:lang="en-US">
+      alphabet="sapi" xml:lang="en-US">
   <lexeme>
     <grapheme>布行</grapheme>
-    <phoneme>bu 4 - hang 2</phoneme>
+    <phoneme>bu 4 hang 2</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>银行</grapheme>
-    <phoneme>yin 1 - hang 2</phoneme>
+    <phoneme>yin 1 hang 2</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>出行</grapheme>
-    <phoneme>chu 1 - xing 2</phoneme>
+    <phoneme>chu 1 xing 2</phoneme>
   </lexeme>
   <lexeme>
         <grapheme>BTW</grapheme>
